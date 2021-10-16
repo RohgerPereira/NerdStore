@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "NerdStore.Catalogo.Domain": {
+      "commandName": "Project"
+    }
+  }
+}
